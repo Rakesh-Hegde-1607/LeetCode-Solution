@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Rakesh-Hegde-1607/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Rakesh-Hegde-1607/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/Rakesh-Hegde-1607/LeetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Rakesh-Hegde-1607/LeetCode-Solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
